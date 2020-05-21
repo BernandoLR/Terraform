@@ -10,9 +10,13 @@ Sebelum menggunakan terraform ada beberapa yang harus di configurasi seperti :
 3. set config aws cli dengan command "aws configure"
 
    Maka akan diminta beberapa data seperti:
+   
 	a. AWS Access Key ID :
+	
 	b. AWS Secret Access Key :
+	
 	c. Default region name :
+	
 	d. Default output format : (bisa diisi dengan json atau dikosongkan atau langsung tekan enter)
 	
 	
